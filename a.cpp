@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "AtlasOneIsTheBest" << std::endl;
+	std::cout << "the best" << std::endl;
 	return 0;
 }
